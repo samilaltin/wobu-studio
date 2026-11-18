@@ -2,7 +2,7 @@
 
 [English](./)
 
-Yürürlük tarihi: 18 Kasım 2026
+Yürürlük tarihi: 19 Kasım 2026
 
 Yayıncı: Wobu Studio
 
@@ -28,7 +28,7 @@ Bu yüzden oyun Android'den reklam kimliği izni, birkaç ilgili reklam hizmeti 
 
 Reklam kimliğini cihaz ayarlarından sıfırlayabilir, silebilir ya da kişiselleştirilmiş reklamları kapatabilirsin (Android'de: Ayarlar, Google, Reklamlar). Silersen uygulamalar kimlik yerine sıfırlardan oluşan bir dizi görür.
 
-Oyunda yalnızca yaklaşık 7 yaş ve üstüne uygun reklamlar gösterilmesini istiyoruz (Google'ın "PG" düzeyi).
+Oyunda yalnızca her yaşa uygun reklamlar gösterilmesini istiyoruz (Google'ın "G" düzeyi).
 
 Google'ın bu bilgileri nasıl kullandığı bizim elimizde değil; bunun için Google'ın kendi politikası geçerli. Politika, Google'ın "Google'ın, hizmetlerini kullanan sitelerden veya uygulamalardan elde ettiği bilgileri nasıl kullandığı" sayfasında anlatılır; sayfaya Google'ın Gizlilik Politikası üzerinden ulaşabilirsin.
 
