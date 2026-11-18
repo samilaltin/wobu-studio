@@ -2,7 +2,7 @@
 
 [Türkçe](tr)
 
-Effective date: 18 November 2026
+Effective date: 19 November 2026
 
 Publisher: Wobu Studio
 
@@ -28,7 +28,7 @@ Because of this the game asks Android for the advertising ID permission and a fe
 
 You can reset or delete your advertising ID, or opt out of personalised ads, in your device settings (on Android: Settings, Google, Ads). If you delete it, apps get a string of zeros instead.
 
-The ads we request are limited to a mild content level (up to "PG", suitable for ages around 7 and up).
+The ads we request are limited to the mildest content level (Google's "G" level, suitable for all ages).
 
 We do not control how Google handles this information. Google's own policy applies; it is described on Google's page "How Google uses information from sites or apps that use our services", which you can reach from Google's Privacy Policy.
 
