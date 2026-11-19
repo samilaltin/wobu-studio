@@ -16,7 +16,7 @@ Mochi'nin Kaplıcası ilerlemeni (altınların, havuzların, dostların, ayarlar
 
 ## Toplamadıklarımız
 
-Adını, e-posta adresini ya da telefon numaranı sormuyoruz; rehberine, fotoğraflarına, mikrofonuna ya da konumuna erişim istemiyoruz. Oyun için kendi sunucumuz yok. Oyun bir analiz hizmeti kullanmıyor.
+Adını, e-posta adresini ya da telefon numaranı sormuyoruz; rehberine, fotoğraflarına, mikrofonuna ya da kesin konumuna erişim istemiyoruz. Oyun için kendi sunucumuz yok ve oyunun kendi analiz hizmeti yok. Aşağıda anlatılan reklam SDK'sı Google'a bazı kullanım ve teknik bilgileri iletir; IP adresinden bulunduğun yerin genel bir tahmini çıkarılabilir.
 
 ## Reklamlar
 
@@ -34,7 +34,7 @@ Google'ın bu bilgileri nasıl kullandığı bizim elimizde değil; bunun için 
 
 ## Avrupa ve bazı bölgelerde onay
 
-Avrupa Ekonomik Alanı, Birleşik Krallık ya da İsviçre'deysen oyun, reklam yüklemeden önce sana bir onay ekranı gösterir ve her açılışta yeniden kontrol eder. Seçimini sonra Ayarlar'daki "Gizlilik seçenekleri" satırından yeniden açabilirsin (bir seçim yaptıysan görünür).
+Avrupa Ekonomik Alanı, Birleşik Krallık ya da İsviçre'deysen oyun her açılışta Google'ın onay ekranının gösterilmesi gerekip gerekmediğini kontrol eder ve reklamı ancak bu kontrol izin verdikten sonra ister. Bir seçim kaydedildikten sonra, Ayarlar'daki "Gizlilik seçenekleri" satırından seçimini yeniden açabilirsin.
 
 ## Çocuklar
 
