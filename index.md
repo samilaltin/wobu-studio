@@ -16,7 +16,7 @@ Mochi's Hot Spring saves your progress (coins, baths, friends, settings and lang
 
 ## What we do not collect
 
-We do not ask for your name, email address, phone number, contacts, photos, microphone or location. We do not run our own server for the game. The game does not use an analytics service.
+We do not ask for your name, email address, phone number, contacts, photos, microphone or precise location. We do not run our own server for the game, and it has no analytics service of its own. The advertising SDK described below reports some usage and diagnostic information to Google; your IP address can be used to estimate your general location.
 
 ## Ads and the advertising SDK
 
@@ -34,7 +34,7 @@ We do not control how Google handles this information. Google's own policy appli
 
 ## Consent in Europe and some other regions
 
-If you are in the European Economic Area, the United Kingdom or Switzerland, the game shows a consent message before any ad is requested, and checks again at each launch. You can reopen your choice later in Settings under "Privacy options" (shown when a choice has been recorded).
+If you are in the European Economic Area, the United Kingdom or Switzerland, the game checks at each launch whether Google's consent message has to be shown, and asks for ads only after that check allows it. Once a choice has been recorded, you can reopen it in Settings under "Privacy options".
 
 ## Children
 
