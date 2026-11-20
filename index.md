@@ -1,5 +1,7 @@
 # Privacy policy for Mochi's Hot Spring: Capybara
 
+**This policy has moved to <https://wobu-studio.web.app/privacy/>. Please read it there.**
+
 [Türkçe](tr)
 
 Effective date: 19 November 2026

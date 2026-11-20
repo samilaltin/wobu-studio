@@ -1,5 +1,7 @@
 # Mochi'nin Kaplıcası: Kapibara gizlilik politikası
 
+**Bu politika <https://wobu-studio.web.app/tr/privacy/> adresine taşındı. Lütfen orada oku.**
+
 [English](./)
 
 Yürürlük tarihi: 19 Kasım 2026
